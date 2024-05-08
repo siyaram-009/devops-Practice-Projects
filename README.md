@@ -1,1 +1,1 @@
-This is personal GitHub Repo where I push my personal DevOps projects.
+This is personal GitHub Repo where I share my learnings on DevOps through projects.
